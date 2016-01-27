@@ -1,9 +1,11 @@
 
 #Set a variable for computer_win equal to 0
+computer_win = 0
 #Set a variable for human_win equal to 0
-
+human_win = 0
 
 #Display “Welcome to RPS 2016. The winner gets rich, the loser dies.”
+puts ""
 #Display “Rock...Paper...Scissors...Shoot!”
 
 #Display “Press 1 for rock, 2 for paper, 3 for scissors”
